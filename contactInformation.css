@@ -1,0 +1,29 @@
+.bg-color{
+   background: white;
+}
+.datatable{
+    border-radius: 2px;
+
+}
+.slds-p-top_x-small{
+    text-align: center;
+}
+.slds-item{
+    font-weight: bold;
+}
+.slds-p-around_large{
+    text-align: center;
+    font-weight: bold;
+    font-size:  20px;
+}
+.slds-box{
+    border-width: 2px;
+    border-color:darkgray;
+}
+.container{
+    position:relative;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
